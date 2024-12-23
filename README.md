@@ -7,9 +7,11 @@
 ## 데이터 셋
 데이터 셋은 총 608개의 이미지와 이에 대응하는 바이너리 마스크 이미지로 구성되어 있다.
 - **이미지**: 특정 해부학적 구조를 포착한 초음파 스캔 영상.
+
 ![image](https://github.com/user-attachments/assets/9760f86c-bd32-44b6-8b19-d015dec739a6)
 
 - **마스크 이미지**: 각 이미지에서 관심 영역(ROI, Region of Interest)을 나타내는 이진 마스크.
+
 ![image](https://github.com/user-attachments/assets/30b76956-e391-4f35-bf3c-38cbd13a4994)
 
 
